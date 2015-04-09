@@ -6,3 +6,9 @@ simplejson==2.0.9
 unittest2
 mock
 #python-simple-hipchat
+numpy
+msgpack-python
+pandas
+scipy
+patsy
+statsmodels
